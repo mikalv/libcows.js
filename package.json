@@ -1,0 +1,26 @@
+{
+  "name": "libcows",
+  "version": "1.0.0",
+  "description": "Display cows in terminal",
+  "main": "libcows.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikalv/libcows.js.git"
+  },
+  "keywords": [
+    "terminal",
+    "cows",
+    "vt100",
+    "cow",
+    "colors"
+  ],
+  "author": "Mikal Villa <mikalv@miraiex.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/mikalv/libcows.js/issues"
+  },
+  "homepage": "https://github.com/mikalv/libcows.js#readme"
+}
