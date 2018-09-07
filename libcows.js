@@ -1,6 +1,7 @@
 'use strict'
 const fs = require('fs')
 const path = require('path')
+const libfancy = require('./libfancy')
 
 const cows = () => fs.readFileSync(path.join(__dirname, 'cows.txt'), 'utf8').replace(/\n$/, '').split('\n\n\n')
 

@@ -1,6 +1,6 @@
 {
   "name": "libcows",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Display cows in terminal",
   "main": "libcows.js",
   "scripts": {
